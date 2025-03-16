@@ -65,6 +65,6 @@ The dataset was obtained from [FakeStore API](https://fakestoreapi.com) and cons
 3. Explore **interactive dashboards and insights**.
 
 ---
-📌 **Developed by:** ADEBOJE SAMUEL  
-📅 **Date:** 03/15/2025  
-📧 **Contact:** [Your Email]  
+🔗 Check out the full project on GitHub: [https://github.com/Samuel-adeboje/Customer-Segmentation-Analysis/blob/main/Customer%20Segmentation%20Analysis%20Report.pdf]
+
+🔗 Connect with me on LinkedIn: [www.linkedin.com/in/samuel-adeboje-368320330]
